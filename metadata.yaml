@@ -1,0 +1,35 @@
+_repo: A-Girl-of-the-People_6142
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Meade, L. T.
+    aliases:
+    - Thomas, Elizabeth
+    - Meade, Mrs. L. T.
+    - Mead, L. T.
+    - Meade, Lillie
+    - Meade, Elizabeth Thomasina
+    - Smith, Elizabeth Thomasina Meade
+    birthdate: 1854
+    deathdate: 1914
+    gutenberg_agent_id: '1621'
+    url: http://www.gutenberg.org/2009/agents/1621
+    wikipedia: http://en.wikipedia.org/wiki/L._T._Meade
+description: ''
+gutenberg_bookshelf: Children's Fiction
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6142'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcc 'PS'
+- !lcsh 'Women in charitable work -- England -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- GITenberg
+title: A Girl of the People
+url: http://www.gutenberg.org/ebooks/6142
